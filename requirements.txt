@@ -1,2 +1,2 @@
 ttkbootstrap==1.12.0
-pillow===11.2.1
+pillow===10.2.0
